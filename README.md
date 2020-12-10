@@ -1,3 +1,0 @@
-# IE
-Repo progetto IE
-
