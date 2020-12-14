@@ -1,0 +1,1274 @@
+,Timestamp,Node,Subsystem,Message,Tuple,Type
+0,1167655228,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,0,computation
+1,1167655228,tg-c238,DEV,+Platform PCI Component Error Info Section,0,computation
+2,1167655229,tg-c238,DEV,Component Info: Vendor Id =x x,0,computation
+3,1167657137,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+4,1167657137,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,1,computation
+5,1167657137,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+6,1167657140,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+7,1167657141,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+8,1167657141,tg-c238,DEV,Component Info: Vendor Id =x x,1,computation
+9,1167657141,tg-c238,DEV,+ Platform Specific Error Detail:,1,computation
+10,1167657141,tg-c238,MEM,Physical Address x,1,computation
+11,1167657141,tg-c238,MEM,Physical Address x,1,computation
+12,1167657142,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+13,1167657142,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+14,1167657143,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+15,1167657143,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+16,1167657145,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+17,1167657145,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+18,1167657145,tg-c238,DEV,Component Info: Vendor Id =x x,1,computation
+19,1167657146,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+20,1167657146,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+21,1167657146,tg-c238,DEV,Component Info: Vendor Id =x x,1,computation
+22,1167657147,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+23,1167657147,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+24,1167657147,tg-c238,DEV,+ Platform Specific Error Detail:,1,computation
+25,1167657147,tg-c238,MEM,Physical Address x,1,computation
+26,1167657147,tg-c238,MEM,Physical Address x,1,computation
+27,1167657148,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+28,1167657149,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+29,1167657149,tg-c238,DEV,Component Info: Vendor Id =x x,1,computation
+30,1167657150,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+31,1167657151,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+32,1167657157,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+33,1167657157,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+34,1167657158,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+35,1167657158,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+36,1167657159,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+37,1167657159,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+38,1167657159,tg-c238,DEV,Component Info: Vendor Id =x x,1,computation
+39,1167657163,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+40,1167657163,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+41,1167657163,tg-c238,DEV,Component Info: Vendor Id =x x,1,computation
+42,1167657176,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+43,1167657177,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+44,1167657177,tg-c238,DEV,Component Info: Vendor Id =x x,1,computation
+45,1167657186,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+46,1167657186,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+47,1167657190,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+48,1167657191,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+49,1167657235,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+50,1167657236,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+51,1167657281,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+52,1167657281,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+53,1167657301,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+54,1167657301,tg-c238,DEV,+Platform PCI Component Error Info Section,1,computation
+55,1167657301,tg-c238,DEV,+Platform Specific Error Info Section,1,computation
+56,1167657301,tg-c238,DEV,Component Info: Vendor Id =x x,1,computation
+57,1167657301,tg-c238,DEV,Component Info: Vendor Id =x x,1,computation
+58,1167657301,tg-c238,DEV,Component Info: Vendor Id =x x,1,computation
+59,1167657301,tg-c238,DEV,+ Platform Specific Error Detail:,1,computation
+60,1167657301,tg-c238,MEM,Physical Address x,1,computation
+61,1167657301,tg-c238,MEM,Physical Address x,1,computation
+62,1167657302,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,1,computation
+63,1167657302,tg-c238,DEV,Component Info: Vendor Id =x x,1,computation
+64,1167657550,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,2,computation
+65,1167657550,tg-c238,DEV,+Platform PCI Component Error Info Section,2,computation
+66,1167657550,tg-c238,DEV,Component Info: Vendor Id =x x,2,computation
+67,1167657550,tg-c238,DEV,Component Info: Vendor Id =x x,2,computation
+68,1167657550,tg-c238,DEV,Component Info: Vendor Id =x x,2,computation
+69,1167657550,tg-c238,DEV,Component Info: Vendor Id =x x,2,computation
+70,1167657550,tg-c238,DEV,Component Info: Vendor Id =x x,2,computation
+71,1167657550,tg-c238,DEV,Component Info: Vendor Id =x x,2,computation
+72,1167657550,tg-c238,DEV,+ Platform Specific Error Detail:,2,computation
+73,1167657550,tg-c238,MEM,+ Mem Error Detail:,2,computation
+74,1167657550,tg-c238,MEM,Physical Address x,2,computation
+75,1167657550,tg-c238,MEM,Physical Address x,2,computation
+76,1167657550,tg-c238,MEM,Physical Address x,2,computation
+77,1167657550,tg-c238,MEM,Physical Address x,2,computation
+78,1167657941,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,3,computation
+79,1167657941,tg-c238,DEV,+Platform PCI Component Error Info Section,3,computation
+80,1167658201,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,4,computation
+81,1167658201,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,4,computation
+82,1167658201,tg-c238,DEV,+Platform PCI Component Error Info Section,4,computation
+83,1167658201,tg-c238,DEV,+Platform Specific Error Info Section,4,computation
+84,1167658201,tg-c238,DEV,Component Info: Vendor Id =x x,4,computation
+85,1167658201,tg-c238,DEV,Component Info: Vendor Id =x x,4,computation
+86,1167658201,tg-c238,DEV,Component Info: Vendor Id =x x,4,computation
+87,1167658201,tg-c238,DEV,Component Info: Vendor Id =x x,4,computation
+88,1167658201,tg-c238,DEV,+ Platform Specific Error Detail:,4,computation
+89,1167658201,tg-c238,MEM,Physical Address x,4,computation
+90,1167658201,tg-c238,MEM,Physical Address x,4,computation
+91,1167658404,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,5,computation
+92,1167658404,tg-c238,DEV,+Platform PCI Component Error Info Section,5,computation
+93,1167658404,tg-c238,DEV,Component Info: Vendor Id =x x,5,computation
+94,1167658416,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,5,computation
+95,1167658416,tg-c238,DEV,+Platform PCI Component Error Info Section,5,computation
+96,1167658417,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,5,computation
+97,1167658417,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,5,computation
+98,1167658417,tg-c238,DEV,+Platform PCI Component Error Info Section,5,computation
+99,1167658418,tg-c238,DEV,Component Info: Vendor Id =x x,5,computation
+100,1167658420,tg-c238,DEV,+Platform PCI Component Error Info Section,5,computation
+101,1167658420,tg-c238,DEV,Component Info: Vendor Id =x x,5,computation
+102,1167658420,tg-c238,DEV,Component Info: Vendor Id =x x,5,computation
+103,1167658448,tg-c238,DEV,+Platform PCI Component Error Info Section,5,computation
+104,1167658448,tg-c238,DEV,Component Info: Vendor Id =x x,5,computation
+105,1167658456,tg-c238,DEV,+Platform PCI Component Error Info Section,5,computation
+106,1167658456,tg-c238,DEV,Component Info: Vendor Id =x x,5,computation
+107,1167658913,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+108,1167658913,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+109,1167658915,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+110,1167658915,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,6,computation
+111,1167658915,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+112,1167658917,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+113,1167658917,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+114,1167658918,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+115,1167658918,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,6,computation
+116,1167658918,tg-c238,DEV,+ Platform Specific Error Detail:,6,computation
+117,1167658919,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+118,1167658919,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+119,1167658922,tg-c238,MEM,+ Mem Error Detail:,6,computation
+120,1167658923,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,6,computation
+121,1167658923,tg-c238,DEV,+Platform Specific Error Info Section,6,computation
+122,1167658923,tg-c238,MEM,Physical Address x,6,computation
+123,1167658923,tg-c238,MEM,Physical Address x,6,computation
+124,1167658924,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+125,1167658924,tg-c238,DEV,+Platform Specific Error Info Section,6,computation
+126,1167658924,tg-c238,MEM,Physical Address x,6,computation
+127,1167658924,tg-c238,MEM,Physical Address x,6,computation
+128,1167658927,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+129,1167658927,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+130,1167658929,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+131,1167658929,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+132,1167658931,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+133,1167658931,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+134,1167659006,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+135,1167659006,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+136,1167659007,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+137,1167659009,tg-c238,MEM,+ Mem Error Detail:,6,computation
+138,1167659019,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+139,1167659019,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+140,1167659024,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+141,1167659024,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,6,computation
+142,1167659024,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+143,1167659024,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+144,1167659024,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+145,1167659024,tg-c238,DEV,+ Platform Specific Error Detail:,6,computation
+146,1167659024,tg-c238,MEM,+ Mem Error Detail:,6,computation
+147,1167659024,tg-c238,MEM,Physical Address x,6,computation
+148,1167659024,tg-c238,MEM,Physical Address x,6,computation
+149,1167659025,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+150,1167659025,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+151,1167659025,tg-c238,DEV,+Platform Specific Error Info Section,6,computation
+152,1167659025,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+153,1167659025,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+154,1167659025,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+155,1167659025,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+156,1167659025,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+157,1167659025,tg-c238,DEV,+ Platform Specific Error Detail:,6,computation
+158,1167659025,tg-c238,MEM,+ Mem Error Detail:,6,computation
+159,1167659025,tg-c238,MEM,Physical Address x,6,computation
+160,1167659025,tg-c238,MEM,Physical Address x,6,computation
+161,1167659026,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+162,1167659026,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+163,1167659027,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+164,1167659028,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+165,1167659028,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+166,1167659030,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+167,1167659030,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+168,1167659040,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+169,1167659040,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+170,1167659041,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+171,1167659041,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,6,computation
+172,1167659041,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+173,1167659041,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+174,1167659041,tg-c238,DEV,+ Platform Specific Error Detail:,6,computation
+175,1167659042,tg-c238,MEM,+ Mem Error Detail:,6,computation
+176,1167659044,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+177,1167659044,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+178,1167659051,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+179,1167659051,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+180,1167659096,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+181,1167659096,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+182,1167659101,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+183,1167659101,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+184,1167659101,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+185,1167659101,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+186,1167659101,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+187,1167659101,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+188,1167659102,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+189,1167659102,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+190,1167659102,tg-c238,DEV,+Platform Specific Error Info Section,6,computation
+191,1167659102,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+192,1167659102,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+193,1167659102,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+194,1167659102,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+195,1167659102,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+196,1167659102,tg-c238,DEV,+ Platform Specific Error Detail:,6,computation
+197,1167659102,tg-c238,MEM,+ Mem Error Detail:,6,computation
+198,1167659102,tg-c238,MEM,Physical Address x,6,computation
+199,1167659102,tg-c238,MEM,Physical Address x,6,computation
+200,1167659102,tg-c238,MEM,Physical Address x,6,computation
+201,1167659102,tg-c238,MEM,Physical Address x,6,computation
+202,1167659102,tg-c238,MEM,Physical Address x,6,computation
+203,1167659102,tg-c238,MEM,Physical Address x,6,computation
+204,1167659103,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+205,1167659103,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+206,1167659276,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,6,computation
+207,1167659276,tg-c238,DEV,+Platform PCI Component Error Info Section,6,computation
+208,1167659277,tg-c238,DEV,Component Info: Vendor Id =x x,6,computation
+209,1167659488,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,7,computation
+210,1167659488,tg-c238,DEV,+Platform PCI Component Error Info Section,7,computation
+211,1167659488,tg-c238,DEV,+Platform Specific Error Info Section,7,computation
+212,1167659488,tg-c238,DEV,Component Info: Vendor Id =x x,7,computation
+213,1167659488,tg-c238,DEV,Component Info: Vendor Id =x x,7,computation
+214,1167659488,tg-c238,DEV,Component Info: Vendor Id =x x,7,computation
+215,1167659488,tg-c238,DEV,Component Info: Vendor Id =x x,7,computation
+216,1167659488,tg-c238,MEM,Physical Address x,7,computation
+217,1167659488,tg-c238,MEM,Physical Address x,7,computation
+218,1167659489,tg-c238,DEV,+Platform PCI Component Error Info Section,7,computation
+219,1167659489,tg-c238,DEV,Component Info: Vendor Id =x x,7,computation
+220,1167659489,tg-c238,DEV,Component Info: Vendor Id =x x,7,computation
+221,1167659535,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,7,computation
+222,1167659535,tg-c238,DEV,+Platform PCI Component Error Info Section,7,computation
+223,1167659537,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,7,computation
+224,1167659537,tg-c238,DEV,+Platform PCI Component Error Info Section,7,computation
+225,1167659539,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,7,computation
+226,1167659539,tg-c238,DEV,+Platform PCI Component Error Info Section,7,computation
+227,1167659547,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,7,computation
+228,1167659547,tg-c238,DEV,+Platform PCI Component Error Info Section,7,computation
+229,1167659591,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,7,computation
+230,1167659591,tg-c238,DEV,+Platform PCI Component Error Info Section,7,computation
+231,1167659591,tg-c238,DEV,Component Info: Vendor Id =x x,7,computation
+232,1167659591,tg-c238,DEV,Component Info: Vendor Id =x x,7,computation
+233,1167659592,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,7,computation
+234,1167659592,tg-c238,DEV,+Platform PCI Component Error Info Section,7,computation
+235,1167659592,tg-c238,DEV,+Platform Specific Error Info Section,7,computation
+236,1167659592,tg-c238,DEV,Component Info: Vendor Id =x x,7,computation
+237,1167659592,tg-c238,DEV,Component Info: Vendor Id =x x,7,computation
+238,1167659592,tg-c238,DEV,Component Info: Vendor Id =x x,7,computation
+239,1167659592,tg-c238,DEV,+ Platform Specific Error Detail:,7,computation
+240,1167659592,tg-c238,MEM,+ Mem Error Detail:,7,computation
+241,1167659592,tg-c238,MEM,Physical Address x,7,computation
+242,1167659592,tg-c238,MEM,Physical Address x,7,computation
+243,1167659682,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,7,computation
+244,1167659682,tg-c238,DEV,+Platform PCI Component Error Info Section,7,computation
+245,1167659727,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,7,computation
+246,1167659727,tg-c238,DEV,+Platform PCI Component Error Info Section,7,computation
+247,1167659749,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,7,computation
+248,1167659749,tg-c238,DEV,+Platform PCI Component Error Info Section,7,computation
+249,1167659771,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,7,computation
+250,1167659772,tg-c238,DEV,+Platform PCI Component Error Info Section,7,computation
+251,1167660001,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+252,1167660001,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+253,1167660001,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+254,1167660002,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+255,1167660002,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+256,1167660002,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+257,1167660022,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+258,1167660022,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+259,1167660022,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+260,1167660022,tg-c238,MEM,Physical Address x,8,computation
+261,1167660022,tg-c238,MEM,Physical Address x,8,computation
+262,1167660023,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+263,1167660023,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+264,1167660023,tg-c238,MEM,+ Mem Error Detail:,8,computation
+265,1167660023,tg-c238,MEM,Physical Address x,8,computation
+266,1167660023,tg-c238,MEM,Physical Address x,8,computation
+267,1167660023,tg-c238,MEM,Physical Address x,8,computation
+268,1167660023,tg-c238,MEM,Physical Address x,8,computation
+269,1167660024,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+270,1167660024,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+271,1167660024,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+272,1167660024,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+273,1167660027,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+274,1167660027,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+275,1167660028,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+276,1167660028,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+277,1167660029,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+278,1167660029,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+279,1167660030,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+280,1167660030,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+281,1167660030,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+282,1167660030,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+283,1167660030,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+284,1167660030,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+285,1167660030,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+286,1167660030,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+287,1167660030,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+288,1167660030,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+289,1167660030,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+290,1167660030,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+291,1167660030,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+292,1167660030,tg-c238,MEM,+ Mem Error Detail:,8,computation
+293,1167660030,tg-c238,MEM,Physical Address x,8,computation
+294,1167660030,tg-c238,MEM,Physical Address x,8,computation
+295,1167660030,tg-c238,MEM,Physical Address x,8,computation
+296,1167660030,tg-c238,MEM,Physical Address x,8,computation
+297,1167660030,tg-c238,MEM,Physical Address x,8,computation
+298,1167660030,tg-c238,MEM,Physical Address x,8,computation
+299,1167660031,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+300,1167660031,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+301,1167660031,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+302,1167660031,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+303,1167660031,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+304,1167660031,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+305,1167660031,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+306,1167660031,tg-c238,MEM,+ Mem Error Detail:,8,computation
+307,1167660031,tg-c238,MEM,Physical Address x,8,computation
+308,1167660031,tg-c238,MEM,Physical Address x,8,computation
+309,1167660031,tg-c238,MEM,Physical Address x,8,computation
+310,1167660031,tg-c238,MEM,Physical Address x,8,computation
+311,1167660032,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+312,1167660032,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+313,1167660032,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+314,1167660032,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+315,1167660032,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+316,1167660033,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+317,1167660033,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+318,1167660033,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+319,1167660033,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+320,1167660033,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+321,1167660033,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+322,1167660033,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+323,1167660033,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+324,1167660033,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+325,1167660033,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+326,1167660033,tg-c238,MEM,+ Mem Error Detail:,8,computation
+327,1167660033,tg-c238,MEM,Physical Address x,8,computation
+328,1167660033,tg-c238,MEM,Physical Address x,8,computation
+329,1167660033,tg-c238,MEM,Physical Address x,8,computation
+330,1167660033,tg-c238,MEM,Physical Address x,8,computation
+331,1167660034,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+332,1167660034,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+333,1167660034,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+334,1167660034,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+335,1167660034,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+336,1167660034,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+337,1167660034,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+338,1167660034,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+339,1167660034,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+340,1167660034,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+341,1167660034,tg-c238,MEM,Physical Address x,8,computation
+342,1167660034,tg-c238,MEM,Physical Address x,8,computation
+343,1167660034,tg-c238,MEM,Physical Address x,8,computation
+344,1167660034,tg-c238,MEM,Physical Address x,8,computation
+345,1167660035,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+346,1167660035,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+347,1167660035,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+348,1167660035,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+349,1167660035,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+350,1167660036,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+351,1167660036,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+352,1167660037,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+353,1167660037,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+354,1167660038,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+355,1167660038,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+356,1167660039,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+357,1167660039,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+358,1167660039,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+359,1167660039,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+360,1167660039,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+361,1167660040,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+362,1167660040,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+363,1167660040,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+364,1167660040,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+365,1167660040,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+366,1167660040,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+367,1167660040,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+368,1167660040,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+369,1167660040,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+370,1167660040,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+371,1167660040,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+372,1167660040,tg-c238,MEM,+ Mem Error Detail:,8,computation
+373,1167660040,tg-c238,MEM,Physical Address x,8,computation
+374,1167660040,tg-c238,MEM,Physical Address x,8,computation
+375,1167660040,tg-c238,MEM,Physical Address x,8,computation
+376,1167660040,tg-c238,MEM,Physical Address x,8,computation
+377,1167660041,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+378,1167660041,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+379,1167660041,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+380,1167660041,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+381,1167660041,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+382,1167660041,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+383,1167660041,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+384,1167660041,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+385,1167660041,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+386,1167660041,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+387,1167660041,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+388,1167660041,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+389,1167660041,tg-c238,MEM,+ Mem Error Detail:,8,computation
+390,1167660041,tg-c238,MEM,Physical Address x,8,computation
+391,1167660041,tg-c238,MEM,Physical Address x,8,computation
+392,1167660041,tg-c238,MEM,Physical Address x,8,computation
+393,1167660041,tg-c238,MEM,Physical Address x,8,computation
+394,1167660041,tg-c238,MEM,Physical Address x,8,computation
+395,1167660041,tg-c238,MEM,Physical Address x,8,computation
+396,1167660042,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+397,1167660042,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+398,1167660042,tg-c238,MEM,+ Mem Error Detail:,8,computation
+399,1167660043,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+400,1167660177,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+401,1167660177,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+402,1167660222,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+403,1167660222,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+404,1167660267,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+405,1167660267,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+406,1167660267,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+407,1167660312,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+408,1167660312,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+409,1167660357,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+410,1167660357,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+411,1167660402,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+412,1167660402,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+413,1167660447,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+414,1167660447,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+415,1167660447,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+416,1167660492,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+417,1167660492,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+418,1167660536,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+419,1167660536,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+420,1167660536,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+421,1167660536,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+422,1167660536,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+423,1167660537,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+424,1167660537,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+425,1167660537,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+426,1167660537,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+427,1167660537,tg-c238,MEM,Physical Address x,8,computation
+428,1167660537,tg-c238,MEM,Physical Address x,8,computation
+429,1167660582,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+430,1167660582,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+431,1167660627,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+432,1167660627,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+433,1167660762,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+434,1167660762,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+435,1167660807,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+436,1167660807,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+437,1167660851,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+438,1167660851,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+439,1167660851,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+440,1167660851,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+441,1167660852,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+442,1167660852,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+443,1167660897,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+444,1167660897,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+445,1167660902,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+446,1167660942,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+447,1167660942,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+448,1167660987,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+449,1167660987,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+450,1167661032,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+451,1167661032,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+452,1167661077,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+453,1167661077,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+454,1167661122,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+455,1167661122,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+456,1167661167,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+457,1167661167,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+458,1167661212,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+459,1167661212,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+460,1167661257,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+461,1167661257,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+462,1167661302,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+463,1167661302,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+464,1167661347,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+465,1167661347,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+466,1167661391,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+467,1167661391,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+468,1167661391,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+469,1167661392,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+470,1167661392,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+471,1167661392,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+472,1167661392,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+473,1167661392,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+474,1167661392,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+475,1167661392,tg-c238,MEM,+ Mem Error Detail:,8,computation
+476,1167661392,tg-c238,MEM,Physical Address x,8,computation
+477,1167661392,tg-c238,MEM,Physical Address x,8,computation
+478,1167661437,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+479,1167661437,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+480,1167661482,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+481,1167661482,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+482,1167661527,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+483,1167661527,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+484,1167661572,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+485,1167661572,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+486,1167661617,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+487,1167661617,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+488,1167661662,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+489,1167661662,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+490,1167661707,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+491,1167661707,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+492,1167661707,tg-c238,MEM,+ Mem Error Detail:,8,computation
+493,1167661752,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+494,1167661752,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+495,1167661797,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+496,1167661797,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+497,1167661802,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+498,1167661802,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+499,1167661842,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+500,1167661842,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+501,1167661842,tg-c238,MEM,Physical Address x,8,computation
+502,1167661842,tg-c238,MEM,Physical Address x,8,computation
+503,1167661887,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+504,1167661887,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+505,1167661932,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+506,1167661932,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+507,1167661977,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+508,1167661977,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+509,1167662022,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+510,1167662022,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+511,1167662067,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+512,1167662067,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+513,1167662112,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+514,1167662112,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+515,1167662157,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+516,1167662157,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+517,1167662157,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+518,1167662157,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+519,1167662157,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+520,1167662202,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+521,1167662202,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+522,1167662247,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+523,1167662247,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+524,1167662292,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+525,1167662292,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+526,1167662337,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+527,1167662337,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+528,1167662382,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+529,1167662382,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+530,1167662426,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+531,1167662427,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+532,1167662427,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+533,1167662427,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+534,1167662427,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+535,1167662427,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+536,1167662427,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+537,1167662427,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+538,1167662427,tg-c238,MEM,Physical Address x,8,computation
+539,1167662427,tg-c238,MEM,Physical Address x,8,computation
+540,1167662472,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+541,1167662472,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+542,1167662517,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+543,1167662517,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+544,1167662562,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+545,1167662562,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+546,1167662583,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+547,1167662583,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+548,1167662584,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+549,1167662607,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+550,1167662607,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+551,1167662608,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+552,1167662608,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+553,1167662617,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+554,1167662617,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+555,1167662633,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+556,1167662633,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+557,1167662643,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+558,1167662643,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+559,1167662651,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+560,1167662651,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+561,1167662651,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+562,1167662652,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+563,1167662652,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+564,1167662652,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+565,1167662652,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+566,1167662652,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+567,1167662652,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+568,1167662652,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+569,1167662652,tg-c238,MEM,Physical Address x,8,computation
+570,1167662652,tg-c238,MEM,Physical Address x,8,computation
+571,1167662673,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+572,1167662673,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+573,1167662673,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+574,1167662678,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+575,1167662678,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+576,1167662688,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+577,1167662688,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+578,1167662696,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+579,1167662696,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+580,1167662696,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+581,1167662696,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+582,1167662696,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+583,1167662696,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+584,1167662696,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+585,1167662696,tg-c238,MEM,+ Mem Error Detail:,8,computation
+586,1167662696,tg-c238,MEM,Physical Address x,8,computation
+587,1167662696,tg-c238,MEM,Physical Address x,8,computation
+588,1167662701,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+589,1167662701,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+590,1167662701,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+591,1167662702,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+592,1167662702,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+593,1167662702,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+594,1167662702,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+595,1167662702,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+596,1167662702,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+597,1167662702,tg-c238,MEM,+ Mem Error Detail:,8,computation
+598,1167662702,tg-c238,MEM,Physical Address x,8,computation
+599,1167662702,tg-c238,MEM,Physical Address x,8,computation
+600,1167662711,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+601,1167662711,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+602,1167662711,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+603,1167662713,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+604,1167662713,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+605,1167662720,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+606,1167662720,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+607,1167662808,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+608,1167662808,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+609,1167662830,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+610,1167662830,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+611,1167662848,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+612,1167662848,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+613,1167662869,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+614,1167662869,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+615,1167662880,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+616,1167662880,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+617,1167662883,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+618,1167662883,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+619,1167662889,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+620,1167662889,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+621,1167662889,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+622,1167662897,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+623,1167662897,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+624,1167662905,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+625,1167662905,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+626,1167662936,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+627,1167662936,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+628,1167662937,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+629,1167662937,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+630,1167662937,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+631,1167662949,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+632,1167662949,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+633,1167662963,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+634,1167662964,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+635,1167662964,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+636,1167662964,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+637,1167662980,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+638,1167662980,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+639,1167663032,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+640,1167663032,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+641,1167663037,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+642,1167663037,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+643,1167663067,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+644,1167663067,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+645,1167663069,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+646,1167663070,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+647,1167663070,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+648,1167663088,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+649,1167663088,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+650,1167663119,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+651,1167663119,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+652,1167663119,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+653,1167663174,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+654,1167663174,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+655,1167663175,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+656,1167663175,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+657,1167663242,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+658,1167663242,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+659,1167663416,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+660,1167663417,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+661,1167663461,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+662,1167663461,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+663,1167663507,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+664,1167663507,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+665,1167663541,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+666,1167663602,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+667,1167663602,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+668,1167663603,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+669,1167663603,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+670,1167663603,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+671,1167663603,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+672,1167663603,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+673,1167663604,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+674,1167663606,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+675,1167663606,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+676,1167663620,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+677,1167663620,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+678,1167663623,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+679,1167663624,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+680,1167663624,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+681,1167663624,tg-c238,MEM,Physical Address x,8,computation
+682,1167663624,tg-c238,MEM,Physical Address x,8,computation
+683,1167663625,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+684,1167663625,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+685,1167663625,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+686,1167663625,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+687,1167663626,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+688,1167663626,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+689,1167663627,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+690,1167663627,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+691,1167663627,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+692,1167663627,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+693,1167663627,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+694,1167663627,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+695,1167663627,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+696,1167663627,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+697,1167663627,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+698,1167663627,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+699,1167663627,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+700,1167663627,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+701,1167663627,tg-c238,MEM,+ Mem Error Detail:,8,computation
+702,1167663627,tg-c238,MEM,Physical Address x,8,computation
+703,1167663627,tg-c238,MEM,Physical Address x,8,computation
+704,1167663627,tg-c238,MEM,Physical Address x,8,computation
+705,1167663627,tg-c238,MEM,Physical Address x,8,computation
+706,1167663628,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+707,1167663628,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+708,1167663628,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+709,1167663628,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+710,1167663628,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+711,1167663628,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+712,1167663628,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+713,1167663628,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+714,1167663628,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+715,1167663628,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+716,1167663628,tg-c238,MEM,+ Mem Error Detail:,8,computation
+717,1167663628,tg-c238,MEM,Physical Address x,8,computation
+718,1167663628,tg-c238,MEM,Physical Address x,8,computation
+719,1167663628,tg-c238,MEM,Physical Address x,8,computation
+720,1167663628,tg-c238,MEM,Physical Address x,8,computation
+721,1167663629,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+722,1167663629,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+723,1167663629,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+724,1167663629,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+725,1167663629,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+726,1167663629,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+727,1167663629,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+728,1167663629,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+729,1167663629,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+730,1167663629,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+731,1167663629,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+732,1167663629,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+733,1167663629,tg-c238,MEM,+ Mem Error Detail:,8,computation
+734,1167663629,tg-c238,MEM,Physical Address x,8,computation
+735,1167663629,tg-c238,MEM,Physical Address x,8,computation
+736,1167663629,tg-c238,MEM,Physical Address x,8,computation
+737,1167663629,tg-c238,MEM,Physical Address x,8,computation
+738,1167663629,tg-c238,MEM,Physical Address x,8,computation
+739,1167663629,tg-c238,MEM,Physical Address x,8,computation
+740,1167663630,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+741,1167663630,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+742,1167663630,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+743,1167663630,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+744,1167663630,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+745,1167663630,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+746,1167663630,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+747,1167663630,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+748,1167663630,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+749,1167663630,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+750,1167663630,tg-c238,MEM,+ Mem Error Detail:,8,computation
+751,1167663630,tg-c238,MEM,Physical Address x,8,computation
+752,1167663630,tg-c238,MEM,Physical Address x,8,computation
+753,1167663630,tg-c238,MEM,Physical Address x,8,computation
+754,1167663630,tg-c238,MEM,Physical Address x,8,computation
+755,1167663631,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+756,1167663631,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+757,1167663631,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+758,1167663631,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+759,1167663631,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+760,1167663631,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+761,1167663631,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+762,1167663631,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+763,1167663631,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+764,1167663631,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+765,1167663631,tg-c238,MEM,Physical Address x,8,computation
+766,1167663631,tg-c238,MEM,Physical Address x,8,computation
+767,1167663631,tg-c238,MEM,Physical Address x,8,computation
+768,1167663631,tg-c238,MEM,Physical Address x,8,computation
+769,1167663632,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+770,1167663632,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+771,1167663632,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+772,1167663632,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+773,1167663632,tg-c238,MEM,+ Mem Error Detail:,8,computation
+774,1167663632,tg-c238,MEM,Physical Address x,8,computation
+775,1167663632,tg-c238,MEM,Physical Address x,8,computation
+776,1167663633,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+777,1167663633,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+778,1167663634,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+779,1167663634,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+780,1167663634,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+781,1167663634,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+782,1167663635,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+783,1167663635,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+784,1167663636,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+785,1167663636,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+786,1167663644,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+787,1167663644,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+788,1167663737,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+789,1167663737,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+790,1167663915,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+791,1167663915,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+792,1167663969,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+793,1167663969,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+794,1167663971,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+795,1167663971,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+796,1167664064,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+797,1167664064,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+798,1167664092,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+799,1167664092,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+800,1167664092,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+801,1167664101,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+802,1167664101,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+803,1167664136,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+804,1167664136,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+805,1167664137,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+806,1167664191,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+807,1167664191,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+808,1167664361,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+809,1167664361,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+810,1167664400,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+811,1167664400,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+812,1167664400,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+813,1167664463,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+814,1167664463,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+815,1167664466,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+816,1167664466,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+817,1167664512,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+818,1167664512,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+819,1167664544,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+820,1167664544,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+821,1167664545,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+822,1167664545,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+823,1167664575,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+824,1167664575,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+825,1167664585,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+826,1167664585,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+827,1167664585,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+828,1167664632,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+829,1167664632,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+830,1167664632,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+831,1167664638,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+832,1167664638,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+833,1167664668,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+834,1167664668,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+835,1167664677,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+836,1167664677,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+837,1167664687,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+838,1167664687,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+839,1167664702,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+840,1167664702,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+841,1167664730,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+842,1167664730,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+843,1167664736,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+844,1167664736,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+845,1167664808,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+846,1167664808,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+847,1167664836,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+848,1167664836,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+849,1167664843,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+850,1167664843,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+851,1167664859,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+852,1167664859,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+853,1167664885,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+854,1167664885,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+855,1167664885,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+856,1167664887,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+857,1167664887,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+858,1167664887,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+859,1167664887,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+860,1167664887,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+861,1167664887,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+862,1167664887,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+863,1167664887,tg-c238,MEM,+ Mem Error Detail:,8,computation
+864,1167664887,tg-c238,MEM,Physical Address x,8,computation
+865,1167664887,tg-c238,MEM,Physical Address x,8,computation
+866,1167664918,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+867,1167664918,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+868,1167664918,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+869,1167664918,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+870,1167664918,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+871,1167664918,tg-c238,MEM,+ Mem Error Detail:,8,computation
+872,1167664918,tg-c238,MEM,Physical Address x,8,computation
+873,1167664918,tg-c238,MEM,Physical Address x,8,computation
+874,1167664919,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+875,1167664919,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+876,1167664921,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+877,1167664921,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+878,1167664932,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+879,1167664932,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+880,1167664933,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+881,1167664933,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+882,1167664947,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+883,1167664947,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+884,1167664947,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+885,1167664947,tg-c238,DEV,+Platform Specific Error Info Section,8,computation
+886,1167664947,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+887,1167664947,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+888,1167664947,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+889,1167664947,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+890,1167664947,tg-c238,DEV,+ Platform Specific Error Detail:,8,computation
+891,1167664947,tg-c238,MEM,+ Mem Error Detail:,8,computation
+892,1167664947,tg-c238,MEM,Physical Address x,8,computation
+893,1167664947,tg-c238,MEM,Physical Address x,8,computation
+894,1167664948,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+895,1167664948,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+896,1167664948,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+897,1167664948,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+898,1167664948,tg-c238,DEV,Component Info: Vendor Id =x x,8,computation
+899,1167664957,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+900,1167664957,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+901,1167664980,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+902,1167664980,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+903,1167664998,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+904,1167664999,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+905,1167665018,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+906,1167665018,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+907,1167665035,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+908,1167665035,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+909,1167665073,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+910,1167665073,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+911,1167665087,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+912,1167665087,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+913,1167665148,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+914,1167665148,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+915,1167665148,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+916,1167665173,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+917,1167665173,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+918,1167665208,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+919,1167665208,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+920,1167665253,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+921,1167665253,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+922,1167665281,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+923,1167665281,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,8,computation
+924,1167665281,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+925,1167665286,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+926,1167665286,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+927,1167665289,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+928,1167665289,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+929,1167665307,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,8,computation
+930,1167665307,tg-c238,DEV,+Platform PCI Component Error Info Section,8,computation
+931,1167665787,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,9,computation
+932,1167665787,tg-c238,DEV,+Platform PCI Component Error Info Section,9,computation
+933,1167665787,tg-c238,DEV,Component Info: Vendor Id =x x,9,computation
+934,1167665787,tg-c238,DEV,Component Info: Vendor Id =x x,9,computation
+935,1167665787,tg-c238,DEV,Component Info: Vendor Id =x x,9,computation
+936,1167665787,tg-c238,DEV,Component Info: Vendor Id =x x,9,computation
+937,1167665787,tg-c238,DEV,+ Platform Specific Error Detail:,9,computation
+938,1167665787,tg-c238,MEM,+ Mem Error Detail:,9,computation
+939,1167665787,tg-c238,MEM,Physical Address x,9,computation
+940,1167665787,tg-c238,MEM,Physical Address x,9,computation
+941,1167665812,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,9,computation
+942,1167665812,tg-c238,DEV,+Platform PCI Component Error Info Section,9,computation
+943,1167665982,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,9,computation
+944,1167665982,tg-c238,DEV,+Platform PCI Component Error Info Section,9,computation
+945,1167665982,tg-c238,DEV,Component Info: Vendor Id =x x,9,computation
+946,1167665982,tg-c238,DEV,Component Info: Vendor Id =x x,9,computation
+947,1167665982,tg-c238,DEV,Component Info: Vendor Id =x x,9,computation
+948,1167665982,tg-c238,DEV,Component Info: Vendor Id =x x,9,computation
+949,1167665982,tg-c238,DEV,+ Platform Specific Error Detail:,9,computation
+950,1167665982,tg-c238,MEM,+ Mem Error Detail:,9,computation
+951,1167665982,tg-c238,MEM,Physical Address x,9,computation
+952,1167665982,tg-c238,MEM,Physical Address x,9,computation
+953,1167666687,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,10,computation
+954,1167666687,tg-c238,DEV,+Platform PCI Component Error Info Section,10,computation
+955,1167667201,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+956,1167667201,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+957,1167667201,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+958,1167667202,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+959,1167667202,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+960,1167667202,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+961,1167667202,tg-c238,DEV,+ Platform Specific Error Detail:,11,computation
+962,1167667202,tg-c238,MEM,Physical Address x,11,computation
+963,1167667202,tg-c238,MEM,Physical Address x,11,computation
+964,1167667222,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+965,1167667222,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+966,1167667222,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+967,1167667222,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+968,1167667222,tg-c238,MEM,+ Mem Error Detail:,11,computation
+969,1167667224,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+970,1167667224,tg-c238,MEM,Physical Address x,11,computation
+971,1167667224,tg-c238,MEM,Physical Address x,11,computation
+972,1167667226,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+973,1167667226,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+974,1167667226,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+975,1167667226,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+976,1167667227,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+977,1167667227,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,11,computation
+978,1167667227,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+979,1167667227,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+980,1167667227,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+981,1167667227,tg-c238,DEV,+ Platform Specific Error Detail:,11,computation
+982,1167667227,tg-c238,MEM,+ Mem Error Detail:,11,computation
+983,1167667227,tg-c238,MEM,Physical Address x,11,computation
+984,1167667227,tg-c238,MEM,Physical Address x,11,computation
+985,1167667228,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+986,1167667228,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+987,1167667229,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+988,1167667229,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+989,1167667229,tg-c238,DEV,+Platform Specific Error Info Section,11,computation
+990,1167667229,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+991,1167667229,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+992,1167667229,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+993,1167667229,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+994,1167667229,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+995,1167667229,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+996,1167667229,tg-c238,DEV,+ Platform Specific Error Detail:,11,computation
+997,1167667229,tg-c238,MEM,+ Mem Error Detail:,11,computation
+998,1167667229,tg-c238,MEM,Physical Address x,11,computation
+999,1167667229,tg-c238,MEM,Physical Address x,11,computation
+1000,1167667230,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1001,1167667230,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,11,computation
+1002,1167667230,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1003,1167667230,tg-c238,DEV,+Platform Specific Error Info Section,11,computation
+1004,1167667230,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1005,1167667230,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1006,1167667230,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1007,1167667230,tg-c238,DEV,+ Platform Specific Error Detail:,11,computation
+1008,1167667230,tg-c238,MEM,+ Mem Error Detail:,11,computation
+1009,1167667230,tg-c238,MEM,Physical Address x,11,computation
+1010,1167667230,tg-c238,MEM,Physical Address x,11,computation
+1011,1167667230,tg-c238,MEM,Physical Address x,11,computation
+1012,1167667230,tg-c238,MEM,Physical Address x,11,computation
+1013,1167667231,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1014,1167667231,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1015,1167667232,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1016,1167667232,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1017,1167667232,tg-c238,DEV,+Platform Specific Error Info Section,11,computation
+1018,1167667232,tg-c238,MEM,+ Mem Error Detail:,11,computation
+1019,1167667232,tg-c238,MEM,Physical Address x,11,computation
+1020,1167667232,tg-c238,MEM,Physical Address x,11,computation
+1021,1167667233,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1022,1167667233,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,11,computation
+1023,1167667233,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1024,1167667233,tg-c238,DEV,+Platform Specific Error Info Section,11,computation
+1025,1167667233,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1026,1167667233,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1027,1167667233,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1028,1167667233,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1029,1167667233,tg-c238,DEV,+ Platform Specific Error Detail:,11,computation
+1030,1167667233,tg-c238,MEM,+ Mem Error Detail:,11,computation
+1031,1167667233,tg-c238,MEM,Physical Address x,11,computation
+1032,1167667233,tg-c238,MEM,Physical Address x,11,computation
+1033,1167667234,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1034,1167667234,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1035,1167667287,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1036,1167667288,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1037,1167667288,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1038,1167667312,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1039,1167667312,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1040,1167667312,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1041,1167667313,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1042,1167667313,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1043,1167667313,tg-c238,DEV,+Platform Specific Error Info Section,11,computation
+1044,1167667313,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1045,1167667313,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1046,1167667313,tg-c238,DEV,+ Platform Specific Error Detail:,11,computation
+1047,1167667313,tg-c238,MEM,Physical Address x,11,computation
+1048,1167667313,tg-c238,MEM,Physical Address x,11,computation
+1049,1167667347,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1050,1167667347,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1051,1167667347,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1052,1167667348,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1053,1167667348,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1054,1167667348,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1055,1167667348,tg-c238,DEV,+ Platform Specific Error Detail:,11,computation
+1056,1167667348,tg-c238,MEM,+ Mem Error Detail:,11,computation
+1057,1167667348,tg-c238,MEM,Physical Address x,11,computation
+1058,1167667348,tg-c238,MEM,Physical Address x,11,computation
+1059,1167667408,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1060,1167667408,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1061,1167667468,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1062,1167667468,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1063,1167667512,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1064,1167667513,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1065,1167667528,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1066,1167667528,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1067,1167667588,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1068,1167667588,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1069,1167667613,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1070,1167667613,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1071,1167667647,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1072,1167667647,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1073,1167667647,tg-c238,DEV,+Platform Specific Error Info Section,11,computation
+1074,1167667647,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1075,1167667647,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1076,1167667647,tg-c238,DEV,+ Platform Specific Error Detail:,11,computation
+1077,1167667647,tg-c238,MEM,Physical Address x,11,computation
+1078,1167667647,tg-c238,MEM,Physical Address x,11,computation
+1079,1167667648,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1080,1167667648,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1081,1167667648,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1082,1167667648,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1083,1167667648,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1084,1167667648,tg-c238,MEM,+ Mem Error Detail:,11,computation
+1085,1167667648,tg-c238,MEM,Physical Address x,11,computation
+1086,1167667648,tg-c238,MEM,Physical Address x,11,computation
+1087,1167667707,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1088,1167667707,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1089,1167667707,tg-c238,DEV,+Platform Specific Error Info Section,11,computation
+1090,1167667707,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1091,1167667707,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1092,1167667707,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1093,1167667707,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1094,1167667707,tg-c238,DEV,+ Platform Specific Error Detail:,11,computation
+1095,1167667707,tg-c238,MEM,+ Mem Error Detail:,11,computation
+1096,1167667707,tg-c238,MEM,Physical Address x,11,computation
+1097,1167667707,tg-c238,MEM,Physical Address x,11,computation
+1098,1167667737,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1099,1167667738,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1100,1167667767,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1101,1167667767,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1102,1167667782,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1103,1167667783,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1104,1167667827,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1105,1167667827,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1106,1167667887,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1107,1167667887,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1108,1167667912,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1109,1167667912,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1110,1167667947,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1111,1167667947,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1112,1167668007,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1113,1167668007,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1114,1167668008,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1115,1167668008,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1116,1167668068,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1117,1167668068,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1118,1167668128,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1119,1167668128,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1120,1167668135,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1121,1167668135,tg-c238,MEM,+ Mem Error Detail:,11,computation
+1122,1167668136,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1123,1167668136,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1124,1167668136,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1125,1167668136,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1126,1167668136,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1127,1167668190,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1128,1167668190,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1129,1167668197,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1130,1167668197,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1131,1167668197,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1132,1167668197,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1133,1167668197,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1134,1167668197,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1135,1167668197,tg-c238,MEM,Physical Address x,11,computation
+1136,1167668197,tg-c238,MEM,Physical Address x,11,computation
+1137,1167668213,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1138,1167668213,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1139,1167668250,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1140,1167668250,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1141,1167668310,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1142,1167668310,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1143,1167668370,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1144,1167668370,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1145,1167668430,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1146,1167668430,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1147,1167668462,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1148,1167668462,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1149,1167668489,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1150,1167668489,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1151,1167668489,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1152,1167668489,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1153,1167668490,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1154,1167668490,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1155,1167668490,tg-c238,DEV,+Platform Specific Error Info Section,11,computation
+1156,1167668490,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1157,1167668490,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1158,1167668490,tg-c238,DEV,Component Info: Vendor Id =x x,11,computation
+1159,1167668490,tg-c238,DEV,+ Platform Specific Error Detail:,11,computation
+1160,1167668490,tg-c238,MEM,+ Mem Error Detail:,11,computation
+1161,1167668490,tg-c238,MEM,Physical Address x,11,computation
+1162,1167668490,tg-c238,MEM,Physical Address x,11,computation
+1163,1167668507,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1164,1167668507,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,11,computation
+1165,1167668507,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1166,1167668513,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1167,1167668513,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1168,1167668624,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,11,computation
+1169,1167668624,tg-c238,DEV,+Platform PCI Component Error Info Section,11,computation
+1170,1167669001,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,12,computation
+1171,1167669001,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,12,computation
+1172,1167669113,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,12,computation
+1173,1167669113,tg-c238,DEV,+Platform PCI Component Error Info Section,12,computation
+1174,1167669270,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,12,computation
+1175,1167669270,tg-c238,DEV,+Platform PCI Component Error Info Section,12,computation
+1176,1167669413,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,12,computation
+1177,1167669413,tg-c238,DEV,+Platform PCI Component Error Info Section,12,computation
+1178,1167669428,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,12,computation
+1179,1167669428,tg-c238,DEV,+Platform PCI Component Error Info Section,12,computation
+1180,1167669459,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,12,computation
+1181,1167669459,tg-c238,DEV,+Platform PCI Component Error Info Section,12,computation
+1182,1167669461,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,12,computation
+1183,1167669461,tg-c238,DEV,+Platform PCI Component Error Info Section,12,computation
+1184,1167669462,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,12,computation
+1185,1167669462,tg-c238,DEV,+Platform PCI Component Error Info Section,12,computation
+1186,1167669463,tg-c238,DEV,+Platform PCI Component Error Info Section,12,computation
+1187,1167669940,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,13,computation
+1188,1167669940,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1189,1167669940,tg-c238,MEM,Physical Address x,13,computation
+1190,1167669940,tg-c238,MEM,Physical Address x,13,computation
+1191,1167669941,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,13,computation
+1192,1167669941,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1193,1167669941,tg-c238,MEM,Physical Address x,13,computation
+1194,1167669941,tg-c238,MEM,Physical Address x,13,computation
+1195,1167669942,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1196,1167669942,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1197,1167669942,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1198,1167669943,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,13,computation
+1199,1167669943,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,13,computation
+1200,1167669943,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1201,1167669943,tg-c238,DEV,+Platform Specific Error Info Section,13,computation
+1202,1167669943,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1203,1167669943,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1204,1167669943,tg-c238,DEV,+ Platform Specific Error Detail:,13,computation
+1205,1167669944,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,13,computation
+1206,1167669944,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,13,computation
+1207,1167669944,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1208,1167669945,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1209,1167669945,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1210,1167669946,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1211,1167669946,tg-c238,DEV,+Platform Specific Error Info Section,13,computation
+1212,1167669946,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1213,1167669946,tg-c238,MEM,Physical Address x,13,computation
+1214,1167669946,tg-c238,MEM,Physical Address x,13,computation
+1215,1167669947,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1216,1167669947,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1217,1167669948,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1218,1167669948,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1219,1167669948,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1220,1167669949,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1221,1167669949,tg-c238,MEM,+ Mem Error Detail:,13,computation
+1222,1167669950,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1223,1167669950,tg-c238,DEV,+Platform Specific Error Info Section,13,computation
+1224,1167669950,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1225,1167669950,tg-c238,MEM,+ Mem Error Detail:,13,computation
+1226,1167669950,tg-c238,MEM,Physical Address x,13,computation
+1227,1167669950,tg-c238,MEM,Physical Address x,13,computation
+1228,1167669951,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,13,computation
+1229,1167669951,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,13,computation
+1230,1167669951,tg-c238,DEV,+ Platform Specific Error Detail:,13,computation
+1231,1167669952,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1232,1167669952,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1233,1167669953,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1234,1167669953,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1235,1167669953,tg-c238,MEM,+ Mem Error Detail:,13,computation
+1236,1167669954,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,13,computation
+1237,1167669954,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1238,1167669954,tg-c238,DEV,+Platform Specific Error Info Section,13,computation
+1239,1167669954,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1240,1167669954,tg-c238,DEV,+ Platform Specific Error Detail:,13,computation
+1241,1167669954,tg-c238,MEM,Physical Address x,13,computation
+1242,1167669954,tg-c238,MEM,Physical Address x,13,computation
+1243,1167669955,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,13,computation
+1244,1167669955,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,13,computation
+1245,1167669955,tg-c238,DEV,+Platform Specific Error Info Section,13,computation
+1246,1167669955,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1247,1167669955,tg-c238,DEV,+ Platform Specific Error Detail:,13,computation
+1248,1167669956,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,13,computation
+1249,1167669956,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,13,computation
+1250,1167669956,tg-c238,DEV,+Platform Specific Error Info Section,13,computation
+1251,1167669956,tg-c238,DEV,Component Info: Vendor Id =x x,13,computation
+1252,1167669956,tg-c238,DEV,+ Platform Specific Error Detail:,13,computation
+1253,1167670030,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,13,computation
+1254,1167670031,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1255,1167670041,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,13,computation
+1256,1167670041,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1257,1167670048,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,13,computation
+1258,1167670048,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1259,1167670049,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1260,1167670066,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,13,computation
+1261,1167670066,tg-c238,DEV,+Platform PCI Component Error Info Section,13,computation
+1262,1167670847,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,14,computation
+1263,1167670847,tg-c238,DEV,+END HARDWARE ERROR STATE AT CPE,14,computation
+1264,1167670847,tg-c238,DEV,+Platform PCI Component Error Info Section,14,computation
+1265,1167670847,tg-c238,DEV,Component Info: Vendor Id =x x,14,computation
+1266,1167670847,tg-c238,DEV,+ Platform Specific Error Detail:,14,computation
+1267,1167670848,tg-c238,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,14,computation
+1268,1167845528,tg-c238,NET,connection down,15,computation
+1269,1167845545,tg-c238,I-O,hda: packet command error: error=x,15,computation
+1270,1167846123,tg-c238,NET,connection down,16,computation
+1271,1167846140,tg-c238,I-O,hda: packet command error: error=x,16,computation
+1272,1172006619,tg-c238,NET,connection down,17,computation
