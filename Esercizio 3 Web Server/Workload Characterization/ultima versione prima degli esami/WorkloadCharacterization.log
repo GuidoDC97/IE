@@ -1,0 +1,201 @@
+2021-01-05 11:14:31,800 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-01-05 11:14:31,822 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2021-01-05 11:14:31,822 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2021-01-05 11:14:31,824 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2021-01-05 11:14:31,824 INFO o.a.j.JMeter: Version 5.3
+2021-01-05 11:14:31,824 INFO o.a.j.JMeter: java.version=11.0.8
+2021-01-05 11:14:31,824 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2021-01-05 11:14:31,825 INFO o.a.j.JMeter: os.name=Windows 10
+2021-01-05 11:14:31,825 INFO o.a.j.JMeter: os.arch=amd64
+2021-01-05 11:14:31,825 INFO o.a.j.JMeter: os.version=10.0
+2021-01-05 11:14:31,825 INFO o.a.j.JMeter: file.encoding=Cp1252
+2021-01-05 11:14:31,825 INFO o.a.j.JMeter: java.awt.headless=true
+2021-01-05 11:14:31,825 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-01-05 11:14:31,826 INFO o.a.j.JMeter: Available Processors =8
+2021-01-05 11:14:31,835 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-01-05 11:14:31,836 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-01-05 11:14:31,836 INFO o.a.j.JMeter: JMeterHome=C:\Users\fabio\Documents\Fabio\Università\Magistrale\2°anno\1°semestre\Impianti di Elaborazione\apache-jmeter-5.3
+2021-01-05 11:14:31,836 INFO o.a.j.JMeter: user.dir  =C:\Users\fabio\Documents\Fabio\Università\Magistrale\2°anno\1°semestre\Impianti di Elaborazione\apache-jmeter-5.3\bin
+2021-01-05 11:14:31,837 INFO o.a.j.JMeter: PWD       =C:\Users\fabio\Documents\Fabio\Università\Magistrale\2°anno\1°semestre\Impianti di Elaborazione\apache-jmeter-5.3\bin
+2021-01-05 11:14:31,841 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: LAPTOP-DSVV6SSR FullName: 192.168.56.1
+2021-01-05 11:14:31,848 INFO o.a.j.s.FileServer: Default base='C:\Users\fabio\Documents\Fabio\Università\Magistrale\2°anno\1°semestre\Impianti di Elaborazione\apache-jmeter-5.3\bin'
+2021-01-05 11:14:31,850 INFO o.a.j.s.FileServer: Set new base='C:\Users\fabio\Documents\Fabio\Università\Magistrale\2°anno\1°semestre\Impianti di Elaborazione\apache-jmeter-5.3\bin'
+2021-01-05 11:14:31,997 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-01-05 11:14:32,019 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-01-05 11:14:32,023 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-01-05 11:14:32,027 INFO o.a.j.s.SaveService: Loading file: WorkloadCharacterization.jmx
+2021-01-05 11:14:32,099 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-05 11:14:32,099 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-05 11:14:32,099 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-05 11:14:32,099 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-05 11:14:32,099 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-01-05 11:14:32,099 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-01-05 11:14:32,132 INFO o.a.j.JMeter: Creating summariser <summary>
+2021-01-05 11:14:32,139 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2021-01-05 11:14:32,140 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-01-05 11:14:32,140 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-01-05 11:14:32,150 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-01-05 11:14:32,150 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-01-05 11:14:32,485 INFO o.a.j.JMeter: Running test (1609841672485)
+2021-01-05 11:14:32,502 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group - Slow
+2021-01-05 11:14:32,503 INFO o.a.j.e.StandardJMeterEngine: Starting 40 threads for group Thread Group - Slow.
+2021-01-05 11:14:32,503 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2021-01-05 11:14:32,503 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=40 ramp-up=20 delayedStart=false
+2021-01-05 11:14:32,516 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-1
+2021-01-05 11:14:32,550 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2021-01-05 11:14:32,550 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Thread Group - Fast
+2021-01-05 11:14:32,550 INFO o.a.j.e.StandardJMeterEngine: Starting 20 threads for group Thread Group - Fast.
+2021-01-05 11:14:32,550 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2021-01-05 11:14:32,550 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=20 ramp-up=10 delayedStart=false
+2021-01-05 11:14:32,551 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-1
+2021-01-05 11:14:32,565 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2021-01-05 11:14:32,565 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2021-01-05 11:14:32,577 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = LAPTOP-DSVV6SSR
+2021-01-05 11:14:32,585 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2021-01-05 11:14:32,587 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-01-05 11:14:32,587 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-01-05 11:14:32,587 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-01-05 11:14:32,587 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-01-05 11:14:32,747 INFO o.a.j.r.Summariser: summary +      1 in 00:00:00 =    3.8/s Avg:    60 Min:    60 Max:    60 Err:     0 (0.00%) Active: 2 Started: 2 Finished: 0
+2021-01-05 11:14:33,013 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-2
+2021-01-05 11:14:33,052 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-2
+2021-01-05 11:14:33,508 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-3
+2021-01-05 11:14:33,553 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-3
+2021-01-05 11:14:34,007 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-4
+2021-01-05 11:14:34,052 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-4
+2021-01-05 11:14:34,506 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-5
+2021-01-05 11:14:34,551 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-5
+2021-01-05 11:14:35,006 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-6
+2021-01-05 11:14:35,052 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-6
+2021-01-05 11:14:35,506 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-7
+2021-01-05 11:14:35,551 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-7
+2021-01-05 11:14:36,006 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-8
+2021-01-05 11:14:36,052 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-8
+2021-01-05 11:14:36,505 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-9
+2021-01-05 11:14:36,552 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-9
+2021-01-05 11:14:37,005 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-10
+2021-01-05 11:14:37,051 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-10
+2021-01-05 11:14:37,505 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-11
+2021-01-05 11:14:37,552 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-11
+2021-01-05 11:14:38,007 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-12
+2021-01-05 11:14:38,051 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-12
+2021-01-05 11:14:38,505 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-13
+2021-01-05 11:14:38,552 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-13
+2021-01-05 11:14:39,005 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-14
+2021-01-05 11:14:39,051 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-14
+2021-01-05 11:14:39,505 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-15
+2021-01-05 11:14:39,552 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-15
+2021-01-05 11:14:40,006 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-16
+2021-01-05 11:14:40,052 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-16
+2021-01-05 11:14:40,506 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-17
+2021-01-05 11:14:40,552 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-17
+2021-01-05 11:14:41,005 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-18
+2021-01-05 11:14:41,051 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-18
+2021-01-05 11:14:41,505 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-19
+2021-01-05 11:14:41,552 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-19
+2021-01-05 11:14:42,005 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-20
+2021-01-05 11:14:42,051 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Fast 2-20
+2021-01-05 11:14:42,506 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-21
+2021-01-05 11:14:43,004 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-22
+2021-01-05 11:14:43,505 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-23
+2021-01-05 11:14:44,004 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-24
+2021-01-05 11:14:44,505 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-25
+2021-01-05 11:14:45,006 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-26
+2021-01-05 11:14:45,505 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-27
+2021-01-05 11:14:46,004 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-28
+2021-01-05 11:14:46,506 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-29
+2021-01-05 11:14:47,005 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-30
+2021-01-05 11:14:47,505 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-31
+2021-01-05 11:14:48,006 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-32
+2021-01-05 11:14:48,506 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-33
+2021-01-05 11:14:49,005 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-34
+2021-01-05 11:14:49,504 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-35
+2021-01-05 11:14:50,004 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-36
+2021-01-05 11:14:50,504 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-37
+2021-01-05 11:14:51,003 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-38
+2021-01-05 11:14:51,505 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-39
+2021-01-05 11:14:52,005 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Slow 1-40
+2021-01-05 11:15:00,011 INFO o.a.j.r.Summariser: summary +    563 in 00:00:27 =   20.6/s Avg:    37 Min:     1 Max:   177 Err:     0 (0.00%) Active: 60 Started: 60 Finished: 0
+2021-01-05 11:15:00,012 INFO o.a.j.r.Summariser: summary =    564 in 00:00:28 =   20.5/s Avg:    37 Min:     1 Max:   177 Err:     0 (0.00%)
+2021-01-05 11:15:30,070 INFO o.a.j.r.Summariser: summary +    800 in 00:00:30 =   26.6/s Avg:    50 Min:     1 Max:   197 Err:     0 (0.00%) Active: 60 Started: 60 Finished: 0
+2021-01-05 11:15:30,071 INFO o.a.j.r.Summariser: summary =   1364 in 00:00:58 =   23.7/s Avg:    44 Min:     1 Max:   197 Err:     0 (0.00%)
+2021-01-05 11:16:00,048 INFO o.a.j.r.Summariser: summary +    800 in 00:00:30 =   26.7/s Avg:    54 Min:     1 Max:   229 Err:     0 (0.00%) Active: 60 Started: 60 Finished: 0
+2021-01-05 11:16:00,048 INFO o.a.j.r.Summariser: summary =   2164 in 00:01:28 =   24.7/s Avg:    48 Min:     1 Max:   229 Err:     0 (0.00%)
+2021-01-05 11:16:30,047 INFO o.a.j.r.Summariser: summary +    800 in 00:00:30 =   26.7/s Avg:    61 Min:     1 Max:   209 Err:     0 (0.00%) Active: 60 Started: 60 Finished: 0
+2021-01-05 11:16:30,048 INFO o.a.j.r.Summariser: summary =   2964 in 00:01:58 =   25.2/s Avg:    51 Min:     1 Max:   229 Err:     0 (0.00%)
+2021-01-05 11:17:00,083 INFO o.a.j.r.Summariser: summary +    800 in 00:00:30 =   26.6/s Avg:    59 Min:     1 Max:   257 Err:     0 (0.00%) Active: 60 Started: 60 Finished: 0
+2021-01-05 11:17:00,084 INFO o.a.j.r.Summariser: summary =   3764 in 00:02:28 =   25.5/s Avg:    53 Min:     1 Max:   257 Err:     0 (0.00%)
+2021-01-05 11:17:30,041 INFO o.a.j.r.Summariser: summary +    800 in 00:00:30 =   26.7/s Avg:    49 Min:     1 Max:   252 Err:     0 (0.00%) Active: 60 Started: 60 Finished: 0
+2021-01-05 11:17:30,042 INFO o.a.j.r.Summariser: summary =   4564 in 00:02:58 =   25.7/s Avg:    52 Min:     1 Max:   257 Err:     0 (0.00%)
+2021-01-05 11:18:00,008 INFO o.a.j.r.Summariser: summary +    800 in 00:00:30 =   26.7/s Avg:    47 Min:     1 Max:   215 Err:     0 (0.00%) Active: 60 Started: 60 Finished: 0
+2021-01-05 11:18:00,009 INFO o.a.j.r.Summariser: summary =   5364 in 00:03:28 =   25.8/s Avg:    51 Min:     1 Max:   257 Err:     0 (0.00%)
+2021-01-05 11:18:30,041 INFO o.a.j.r.Summariser: summary +    800 in 00:00:30 =   26.6/s Avg:    48 Min:     1 Max:   233 Err:     0 (0.00%) Active: 60 Started: 60 Finished: 0
+2021-01-05 11:18:30,041 INFO o.a.j.r.Summariser: summary =   6164 in 00:03:58 =   25.9/s Avg:    51 Min:     1 Max:   257 Err:     0 (0.00%)
+2021-01-05 11:19:00,050 INFO o.a.j.r.Summariser: summary +    800 in 00:00:30 =   26.7/s Avg:    46 Min:     1 Max:   211 Err:     0 (0.00%) Active: 60 Started: 60 Finished: 0
+2021-01-05 11:19:00,051 INFO o.a.j.r.Summariser: summary =   6964 in 00:04:28 =   26.0/s Avg:    50 Min:     1 Max:   257 Err:     0 (0.00%)
+2021-01-05 11:19:29,545 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-7
+2021-01-05 11:19:29,592 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-13
+2021-01-05 11:19:29,631 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-19
+2021-01-05 11:19:29,690 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-25
+2021-01-05 11:19:29,730 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-1
+2021-01-05 11:19:29,731 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-31
+2021-01-05 11:19:29,751 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-37
+2021-01-05 11:19:30,041 INFO o.a.j.r.Summariser: summary +    800 in 00:00:30 =   26.7/s Avg:    49 Min:     1 Max:   209 Err:     0 (0.00%) Active: 53 Started: 60 Finished: 7
+2021-01-05 11:19:30,043 INFO o.a.j.r.Summariser: summary =   7764 in 00:04:58 =   26.1/s Avg:    50 Min:     1 Max:   257 Err:     0 (0.00%)
+2021-01-05 11:19:30,046 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-2
+2021-01-05 11:19:30,072 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-38
+2021-01-05 11:19:30,072 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-14
+2021-01-05 11:19:30,077 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-32
+2021-01-05 11:19:30,086 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-26
+2021-01-05 11:19:30,087 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-8
+2021-01-05 11:19:30,207 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-20
+2021-01-05 11:19:30,532 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-21
+2021-01-05 11:19:30,556 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-27
+2021-01-05 11:19:30,583 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-3
+2021-01-05 11:19:30,602 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-15
+2021-01-05 11:19:30,660 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-33
+2021-01-05 11:19:30,686 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-9
+2021-01-05 11:19:30,727 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-39
+2021-01-05 11:19:31,031 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-4
+2021-01-05 11:19:31,043 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-22
+2021-01-05 11:19:31,052 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-10
+2021-01-05 11:19:31,102 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-40
+2021-01-05 11:19:31,118 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-28
+2021-01-05 11:19:31,126 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-34
+2021-01-05 11:19:31,135 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-16
+2021-01-05 11:19:31,143 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-7
+2021-01-05 11:19:31,145 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-16
+2021-01-05 11:19:31,200 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-4
+2021-01-05 11:19:31,220 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-19
+2021-01-05 11:19:31,231 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-1
+2021-01-05 11:19:31,234 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-13
+2021-01-05 11:19:31,532 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-5
+2021-01-05 11:19:31,558 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-14
+2021-01-05 11:19:31,576 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-35
+2021-01-05 11:19:31,591 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-29
+2021-01-05 11:19:31,592 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-8
+2021-01-05 11:19:31,597 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-17
+2021-01-05 11:19:31,598 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-11
+2021-01-05 11:19:31,639 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-23
+2021-01-05 11:19:31,651 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-17
+2021-01-05 11:19:31,657 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-20
+2021-01-05 11:19:31,662 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-2
+2021-01-05 11:19:31,672 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-11
+2021-01-05 11:19:31,679 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-5
+2021-01-05 11:19:32,056 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-12
+2021-01-05 11:19:32,069 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-30
+2021-01-05 11:19:32,118 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-6
+2021-01-05 11:19:32,134 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-36
+2021-01-05 11:19:32,134 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-18
+2021-01-05 11:19:32,151 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-18
+2021-01-05 11:19:32,151 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-6
+2021-01-05 11:19:32,190 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-12
+2021-01-05 11:19:32,193 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-9
+2021-01-05 11:19:32,196 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-15
+2021-01-05 11:19:32,212 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-3
+2021-01-05 11:19:32,224 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Slow 1-24
+2021-01-05 11:19:32,556 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group - Fast 2-10
+2021-01-05 11:19:32,557 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Fast 2-10
+2021-01-05 11:19:32,557 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2021-01-05 11:19:32,560 INFO o.a.j.r.Summariser: summary +     66 in 00:00:03 =   26.2/s Avg:    47 Min:     3 Max:   137 Err:     0 (0.00%) Active: 0 Started: 60 Finished: 60
+2021-01-05 11:19:32,563 INFO o.a.j.r.Summariser: summary =   7830 in 00:05:00 =   26.1/s Avg:    50 Min:     1 Max:   257 Err:     0 (0.00%)
