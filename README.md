@@ -9,7 +9,7 @@ AY 2020/2021
 
 The projects consisted in solving a series of problems about performace and dependability analysis of processing systems.
 
-Assignments have been solved with the support of **Python** scripts and **JMP** software.
+Assignments have been solved with the support of **Python** scripts, **JMP** and **Apache JMeter** software.
 
 ## Documentation & Code
 
