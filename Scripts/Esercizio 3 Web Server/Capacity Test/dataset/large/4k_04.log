@@ -1,0 +1,269 @@
+2021-01-03 10:19:38,401 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-01-03 10:19:38,419 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2021-01-03 10:19:38,420 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2021-01-03 10:19:38,421 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2021-01-03 10:19:38,421 INFO o.a.j.JMeter: Version 5.3
+2021-01-03 10:19:38,422 INFO o.a.j.JMeter: java.version=11.0.8
+2021-01-03 10:19:38,422 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2021-01-03 10:19:38,422 INFO o.a.j.JMeter: os.name=Windows 10
+2021-01-03 10:19:38,422 INFO o.a.j.JMeter: os.arch=amd64
+2021-01-03 10:19:38,422 INFO o.a.j.JMeter: os.version=10.0
+2021-01-03 10:19:38,422 INFO o.a.j.JMeter: file.encoding=Cp1252
+2021-01-03 10:19:38,422 INFO o.a.j.JMeter: java.awt.headless=true
+2021-01-03 10:19:38,422 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-01-03 10:19:38,423 INFO o.a.j.JMeter: Available Processors =8
+2021-01-03 10:19:38,431 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-01-03 10:19:38,431 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-01-03 10:19:38,432 INFO o.a.j.JMeter: JMeterHome=C:\Users\fabio\Documents\Fabio\Università\Magistrale\2°anno\1°semestre\Impianti di Elaborazione\apache-jmeter-5.3
+2021-01-03 10:19:38,432 INFO o.a.j.JMeter: user.dir  =C:\Users\fabio\Documents\Fabio\Università\Magistrale\2°anno\1°semestre\Impianti di Elaborazione\apache-jmeter-5.3\bin
+2021-01-03 10:19:38,432 INFO o.a.j.JMeter: PWD       =C:\Users\fabio\Documents\Fabio\Università\Magistrale\2°anno\1°semestre\Impianti di Elaborazione\apache-jmeter-5.3\bin
+2021-01-03 10:19:38,437 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: LAPTOP-DSVV6SSR FullName: 192.168.56.1
+2021-01-03 10:19:38,443 INFO o.a.j.s.FileServer: Default base='C:\Users\fabio\Documents\Fabio\Università\Magistrale\2°anno\1°semestre\Impianti di Elaborazione\apache-jmeter-5.3\bin'
+2021-01-03 10:19:38,444 INFO o.a.j.s.FileServer: Set new base='C:\Users\fabio\Documents\Fabio\Università\Magistrale\2°anno\1°semestre\Impianti di Elaborazione\apache-jmeter-5.3\bin'
+2021-01-03 10:19:38,565 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-01-03 10:19:38,586 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-01-03 10:19:38,590 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-01-03 10:19:38,593 INFO o.a.j.s.SaveService: Loading file: CapacityTest.jmx
+2021-01-03 10:19:38,652 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-03 10:19:38,652 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-03 10:19:38,652 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-03 10:19:38,652 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-03 10:19:38,652 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-01-03 10:19:38,652 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-01-03 10:19:38,663 INFO o.a.j.JMeter: Creating summariser <summary>
+2021-01-03 10:19:38,669 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2021-01-03 10:19:38,669 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-01-03 10:19:38,669 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-01-03 10:19:38,679 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-01-03 10:19:38,679 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-01-03 10:19:38,973 INFO o.a.j.JMeter: Running test (1609665578973)
+2021-01-03 10:19:38,985 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2021-01-03 10:19:38,985 INFO o.a.j.e.StandardJMeterEngine: Starting 100 threads for group Thread Group.
+2021-01-03 10:19:38,986 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2021-01-03 10:19:38,986 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=100 ramp-up=1 delayedStart=false
+2021-01-03 10:19:38,996 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2021-01-03 10:19:39,004 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-2
+2021-01-03 10:19:39,010 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-3
+2021-01-03 10:19:39,018 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-4
+2021-01-03 10:19:39,029 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-5
+2021-01-03 10:19:39,029 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = LAPTOP-DSVV6SSR
+2021-01-03 10:19:39,032 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2021-01-03 10:19:39,032 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2021-01-03 10:19:39,038 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2021-01-03 10:19:39,039 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-6
+2021-01-03 10:19:39,040 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-01-03 10:19:39,040 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-01-03 10:19:39,040 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-01-03 10:19:39,040 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-01-03 10:19:39,050 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-7
+2021-01-03 10:19:39,057 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-8
+2021-01-03 10:19:39,067 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-9
+2021-01-03 10:19:39,076 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-10
+2021-01-03 10:19:39,088 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-11
+2021-01-03 10:19:39,098 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-12
+2021-01-03 10:19:39,108 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-13
+2021-01-03 10:19:39,117 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-14
+2021-01-03 10:19:39,126 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-15
+2021-01-03 10:19:39,137 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-16
+2021-01-03 10:19:39,147 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-17
+2021-01-03 10:19:39,157 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-18
+2021-01-03 10:19:39,168 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-19
+2021-01-03 10:19:39,178 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-20
+2021-01-03 10:19:39,187 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-21
+2021-01-03 10:19:39,198 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-22
+2021-01-03 10:19:39,207 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-23
+2021-01-03 10:19:39,218 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-24
+2021-01-03 10:19:39,226 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-25
+2021-01-03 10:19:39,237 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-26
+2021-01-03 10:19:39,247 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-27
+2021-01-03 10:19:39,261 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-28
+2021-01-03 10:19:39,267 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-29
+2021-01-03 10:19:39,276 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-30
+2021-01-03 10:19:39,286 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-31
+2021-01-03 10:19:39,297 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-32
+2021-01-03 10:19:39,307 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-33
+2021-01-03 10:19:39,316 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-34
+2021-01-03 10:19:39,327 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-35
+2021-01-03 10:19:39,337 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-36
+2021-01-03 10:19:39,347 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-37
+2021-01-03 10:19:39,357 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-38
+2021-01-03 10:19:39,368 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-39
+2021-01-03 10:19:39,378 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-40
+2021-01-03 10:19:39,387 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-41
+2021-01-03 10:19:39,397 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-42
+2021-01-03 10:19:39,407 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-43
+2021-01-03 10:19:39,418 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-44
+2021-01-03 10:19:39,427 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-45
+2021-01-03 10:19:39,437 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-46
+2021-01-03 10:19:39,447 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-47
+2021-01-03 10:19:39,458 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-48
+2021-01-03 10:19:39,468 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-49
+2021-01-03 10:19:39,477 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-50
+2021-01-03 10:19:39,488 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-51
+2021-01-03 10:19:39,498 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-52
+2021-01-03 10:19:39,507 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-53
+2021-01-03 10:19:39,518 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-54
+2021-01-03 10:19:39,528 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-55
+2021-01-03 10:19:39,537 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-56
+2021-01-03 10:19:39,547 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-57
+2021-01-03 10:19:39,558 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-58
+2021-01-03 10:19:39,567 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-59
+2021-01-03 10:19:39,578 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-60
+2021-01-03 10:19:39,587 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-61
+2021-01-03 10:19:39,597 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-62
+2021-01-03 10:19:39,607 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-63
+2021-01-03 10:19:39,618 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-64
+2021-01-03 10:19:39,627 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-65
+2021-01-03 10:19:39,637 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-66
+2021-01-03 10:19:39,648 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-67
+2021-01-03 10:19:39,658 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-68
+2021-01-03 10:19:39,666 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-69
+2021-01-03 10:19:39,678 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-70
+2021-01-03 10:19:39,688 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-71
+2021-01-03 10:19:39,697 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-72
+2021-01-03 10:19:39,707 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-73
+2021-01-03 10:19:39,718 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-74
+2021-01-03 10:19:39,727 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-75
+2021-01-03 10:19:39,738 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-76
+2021-01-03 10:19:39,747 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-77
+2021-01-03 10:19:39,756 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-78
+2021-01-03 10:19:39,767 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-79
+2021-01-03 10:19:39,778 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-80
+2021-01-03 10:19:39,787 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-81
+2021-01-03 10:19:39,796 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-82
+2021-01-03 10:19:39,807 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-83
+2021-01-03 10:19:39,818 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-84
+2021-01-03 10:19:39,828 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-85
+2021-01-03 10:19:39,836 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-86
+2021-01-03 10:19:39,847 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-87
+2021-01-03 10:19:39,858 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-88
+2021-01-03 10:19:39,868 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-89
+2021-01-03 10:19:39,876 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-90
+2021-01-03 10:19:39,888 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-91
+2021-01-03 10:19:39,898 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-92
+2021-01-03 10:19:39,907 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-93
+2021-01-03 10:19:39,916 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-94
+2021-01-03 10:19:39,928 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-95
+2021-01-03 10:19:39,938 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-96
+2021-01-03 10:19:39,947 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-97
+2021-01-03 10:19:39,956 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-98
+2021-01-03 10:19:39,967 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-99
+2021-01-03 10:19:39,978 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-100
+2021-01-03 10:20:00,025 INFO o.a.j.r.Summariser: summary +   1441 in 00:00:21 =   68.5/s Avg:    36 Min:     0 Max:   476 Err:    56 (3.89%) Active: 100 Started: 100 Finished: 0
+2021-01-03 10:20:30,018 INFO o.a.j.r.Summariser: summary +   2000 in 00:00:30 =   66.7/s Avg:    12 Min:     4 Max:    79 Err:     0 (0.00%) Active: 100 Started: 100 Finished: 0
+2021-01-03 10:20:37,580 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-40
+2021-01-03 10:20:37,584 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-46
+2021-01-03 10:20:37,585 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-43
+2021-01-03 10:20:37,603 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-45
+2021-01-03 10:20:37,624 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-44
+2021-01-03 10:20:37,640 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-47
+2021-01-03 10:20:37,692 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-49
+2021-01-03 10:20:37,716 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-52
+2021-01-03 10:20:37,730 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-48
+2021-01-03 10:20:37,734 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-50
+2021-01-03 10:20:37,739 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-9
+2021-01-03 10:20:37,743 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-53
+2021-01-03 10:20:37,803 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-10
+2021-01-03 10:20:37,808 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-19
+2021-01-03 10:20:37,813 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-55
+2021-01-03 10:20:37,845 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-51
+2021-01-03 10:20:37,849 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-56
+2021-01-03 10:20:37,868 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-54
+2021-01-03 10:20:37,872 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-57
+2021-01-03 10:20:37,889 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-60
+2021-01-03 10:20:37,914 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-58
+2021-01-03 10:20:37,938 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-59
+2021-01-03 10:20:37,958 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-61
+2021-01-03 10:20:37,963 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-63
+2021-01-03 10:20:37,968 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-62
+2021-01-03 10:20:38,022 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-65
+2021-01-03 10:20:38,027 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-64
+2021-01-03 10:20:38,053 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-21
+2021-01-03 10:20:38,058 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-23
+2021-01-03 10:20:38,083 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-66
+2021-01-03 10:20:38,113 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-67
+2021-01-03 10:20:38,144 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-68
+2021-01-03 10:20:38,148 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-16
+2021-01-03 10:20:38,172 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-69
+2021-01-03 10:20:38,186 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-70
+2021-01-03 10:20:38,192 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-3
+2021-01-03 10:20:38,198 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-71
+2021-01-03 10:20:38,204 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-72
+2021-01-03 10:20:38,214 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-73
+2021-01-03 10:20:38,223 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-17
+2021-01-03 10:20:38,227 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-74
+2021-01-03 10:20:38,232 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-75
+2021-01-03 10:20:38,237 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-8
+2021-01-03 10:20:38,243 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-76
+2021-01-03 10:20:38,265 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-77
+2021-01-03 10:20:38,283 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-18
+2021-01-03 10:20:38,289 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-14
+2021-01-03 10:20:38,292 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-80
+2021-01-03 10:20:38,297 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-24
+2021-01-03 10:20:38,302 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-81
+2021-01-03 10:20:38,314 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-82
+2021-01-03 10:20:38,315 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-13
+2021-01-03 10:20:38,323 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-84
+2021-01-03 10:20:38,334 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-85
+2021-01-03 10:20:38,352 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2021-01-03 10:20:38,362 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-88
+2021-01-03 10:20:38,399 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-5
+2021-01-03 10:20:38,414 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-91
+2021-01-03 10:20:38,417 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-7
+2021-01-03 10:20:38,436 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-94
+2021-01-03 10:20:38,444 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-2
+2021-01-03 10:20:38,449 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-11
+2021-01-03 10:20:38,465 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-6
+2021-01-03 10:20:38,475 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-12
+2021-01-03 10:20:38,562 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-15
+2021-01-03 10:20:38,623 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-27
+2021-01-03 10:20:38,627 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-26
+2021-01-03 10:20:38,653 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-30
+2021-01-03 10:20:38,661 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-25
+2021-01-03 10:20:38,697 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-22
+2021-01-03 10:20:38,703 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-29
+2021-01-03 10:20:38,714 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-28
+2021-01-03 10:20:38,815 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-31
+2021-01-03 10:20:38,840 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-37
+2021-01-03 10:20:38,847 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-34
+2021-01-03 10:20:38,848 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-36
+2021-01-03 10:20:38,868 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-32
+2021-01-03 10:20:38,892 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-42
+2021-01-03 10:20:38,923 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-33
+2021-01-03 10:20:38,925 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-39
+2021-01-03 10:20:38,929 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-35
+2021-01-03 10:20:38,992 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-4
+2021-01-03 10:20:38,994 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-90
+2021-01-03 10:20:39,001 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-98
+2021-01-03 10:20:39,005 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-20
+2021-01-03 10:20:39,017 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-78
+2021-01-03 10:20:39,021 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-96
+2021-01-03 10:20:39,025 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-92
+2021-01-03 10:20:39,030 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-93
+2021-01-03 10:20:39,030 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-93
+2021-01-03 10:20:39,035 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-89
+2021-01-03 10:20:39,035 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-89
+2021-01-03 10:20:39,040 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-83
+2021-01-03 10:20:39,040 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-83
+2021-01-03 10:20:39,045 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-100
+2021-01-03 10:20:39,045 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-100
+2021-01-03 10:20:39,067 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-97
+2021-01-03 10:20:39,067 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-97
+2021-01-03 10:20:39,069 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-87
+2021-01-03 10:20:39,069 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-87
+2021-01-03 10:20:39,079 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-86
+2021-01-03 10:20:39,079 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-86
+2021-01-03 10:20:39,084 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-38
+2021-01-03 10:20:39,084 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-38
+2021-01-03 10:20:39,085 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-95
+2021-01-03 10:20:39,085 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-95
+2021-01-03 10:20:39,085 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-99
+2021-01-03 10:20:39,085 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-99
+2021-01-03 10:20:39,085 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-79
+2021-01-03 10:20:39,085 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-79
+2021-01-03 10:20:43,844 INFO o.a.j.r.Summariser: summary =   3441 in 00:00:51 =   67.4/s Avg:    22 Min:     0 Max:   476 Err:    56 (1.63%)
+2021-01-03 10:20:43,845 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-41
+2021-01-03 10:20:43,845 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-41
+2021-01-03 10:20:43,845 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2021-01-03 10:20:43,847 INFO o.a.j.r.Summariser: summary +    611 in 00:00:14 =   44.2/s Avg:    11 Min:     4 Max:    77 Err:     0 (0.00%) Active: 0 Started: 100 Finished: 100
+2021-01-03 10:20:43,848 INFO o.a.j.r.Summariser: summary =   4052 in 00:01:05 =   62.5/s Avg:    21 Min:     0 Max:   476 Err:    56 (1.38%)
