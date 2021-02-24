@@ -13,6 +13,6 @@ Assignments have been solved with the support of **Python** scripts, **JMP** and
 
 ## Documentation & Code
 
-Complete documentation in **LaTex** of project can be found **[here](/Ealborato_Impianti.pdf)**.
+Complete documentation in **LaTex** of project can be found **[here](/Elaborato_Impianti.pdf)**.
 
 Source code of scripts can be found **[here](/Scripts/)**.
